@@ -1,4 +1,4 @@
-# Step-by-Step Instructions: C0_original.txt → C1_hello_world.txt
+# Step-by-Step Instructions: C0_original.kt → C1_hello_world.kt
 
 ## Step 1: Remove unused imports
 
